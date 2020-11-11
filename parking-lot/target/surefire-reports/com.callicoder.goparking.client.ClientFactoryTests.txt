@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.callicoder.goparking.client.ClientFactoryTests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.013 s <<< FAILURE! - in com.callicoder.goparking.client.ClientFactoryTests
+buildClientWithValidFilePath_shouldCreateFileClient  Time elapsed: 0.009 s  <<< ERROR!
+java.io.FileNotFoundException: file_input.txt (No such file or directory)
+	at com.callicoder.goparking.client.ClientFactoryTests.buildClientWithValidFilePath_shouldCreateFileClient(ClientFactoryTests.java:34)
+

@@ -1,0 +1,13 @@
+/home/ps/Code/OOD/parking-lot/src/test/java/com/callicoder/goparking/domain/CarTests.java
+/home/ps/Code/OOD/parking-lot/src/test/java/com/callicoder/goparking/interaction/command/SlotNumberForCarWithColorTest.java
+/home/ps/Code/OOD/parking-lot/src/test/java/com/callicoder/goparking/interaction/command/CreateLotCommandTests.java
+/home/ps/Code/OOD/parking-lot/src/test/java/com/callicoder/goparking/interaction/command/LeaveCommandTest.java
+/home/ps/Code/OOD/parking-lot/src/test/java/com/callicoder/goparking/interaction/command/ParkCommandTests.java
+/home/ps/Code/OOD/parking-lot/src/test/java/com/callicoder/goparking/domain/ParkingSlotTests.java
+/home/ps/Code/OOD/parking-lot/src/test/java/com/callicoder/goparking/client/ClientFactoryTests.java
+/home/ps/Code/OOD/parking-lot/src/test/java/com/callicoder/goparking/domain/ParkingLotTests.java
+/home/ps/Code/OOD/parking-lot/src/test/java/com/callicoder/goparking/handler/ParkingLotCommandHandlerTests.java
+/home/ps/Code/OOD/parking-lot/src/test/java/com/callicoder/goparking/interaction/command/RegistrationNumberOfCarWithColorTest.java
+/home/ps/Code/OOD/parking-lot/src/test/java/com/callicoder/goparking/interaction/CommandFactoryTests.java
+/home/ps/Code/OOD/parking-lot/src/test/java/com/callicoder/goparking/client/ClientTests.java
+/home/ps/Code/OOD/parking-lot/src/test/java/com/callicoder/goparking/utils/StringUtilsTests.java
